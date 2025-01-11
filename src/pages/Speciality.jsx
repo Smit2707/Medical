@@ -47,7 +47,7 @@ const Page4 = () => {
           <div className="lg:w-1/2">
             <div className="relative w-full max-w-md mx-auto lg:max-w-none">
               <img
-                src="/src/assets/illu2.png"
+                src="./src/assets/illu2.png"
                 alt="Doctor Specialities"
                 className="w-[500px] h-auto rounded-2xl"
               />
