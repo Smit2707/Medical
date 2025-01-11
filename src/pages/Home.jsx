@@ -7,7 +7,7 @@ const Page1 = () => {
             <div
                 className="absolute top-0 right-0 w-full h-full z-[100] pointer-events-none opacity-[0.2] md:opacity-[1]"
                 style={{
-                    backgroundImage: "url('/src/assets/illustration.png')",
+                    backgroundImage: "url('/src/assets/Illustration.png')",
                     backgroundRepeat: "no-repeat",
                     backgroundPosition: "right top",
                     backgroundSize: "contain"
